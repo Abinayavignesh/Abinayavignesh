@@ -1,27 +1,98 @@
-<h1 align="center">Hi 👋, I'm Abinaya</h1>
-<h3 align="center">A passionate Automation Tester from Coimbatore</h3>
+# Hi there, I'm [Your Name] 👋
 
-- 🔭 I’m currently working on [SpiceJet Automation Project](https://github.com/Abinayavignesh/SpicejetProject/tree/master/SpicejetProject-2)
+🚀 **Java Automation Tester | Selenium | TestNG | POM | API Testing**
 
-- 🌱 I’m currently learning **Automation Testing with Java Selenium**
+Welcome to my GitHub! I am a passionate **Automation Tester** with hands-on experience in building robust test automation frameworks using **Java, Selenium, TestNG, and POM**. I am enthusiastic about ensuring software quality through efficient test strategies, automation, and continuous improvement.
 
-- 👯 I’m looking to collaborate on [E-Commerce Bestbuy Automation Project](https://github.com/Abinayavignesh/BestbuyProject1/tree/master/BestBuyProject-1)
+---
 
-- 📝 I regularly write articles on [https://medium.com/@abinayavignesh91](https://medium.com/@abinayavignesh91)
+## 🔍 About Me
 
-- 💬 Ask me about **Selenium, Core Java, Sql**
+- 🎯 **2+ years of experience** in development and testing.
+- 🏢 Worked at **Tata Consultancy Services** as a developer for the **TataCliq website**.
+- 💡 Automated **Demoblaze, SpiceJet, and Best Buy** e-commerce websites.
+- 👨‍🏫 Experience as a **Placement Trainer**, mentoring students in automation testing.
+- 📊 Developed a **Data Management System for Students** and an **Automatic Driver Drowsiness Detection System**.
+- 🎯 Strong expertise in end-to-end **UI and API automation**.
 
-- 📫 How to reach me **abinayavignesh91@gmail.com**
+---
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/16--zTGOdk4ATLsuugkWhAckruP7LxWvd/edit?usp=sharing&ouid=113718894453470708881&rtpof=true&sd=true](https://docs.google.com/document/d/16--zTGOdk4ATLsuugkWhAckruP7LxWvd/edit?usp=sharing&ouid=113718894453470708881&rtpof=true&sd=true)
+## 🛠️ Tech Stack & Tools
 
-- ⚡ Fun fact **Dancing is my passion**
+### **🖥️ Programming & Scripting:**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@abinayavignesh91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abinayavignesh91" height="30" width="40" /></a>
-</p>
+- Java (Core Java, OOPs)
+- Python (Basic scripting for automation)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+### **🧪 Testing Frameworks & Tools:**
+
+- Selenium WebDriver
+- TestNG
+- JUnit
+- Cucumber (BDD)
+- Postman (API Testing)
+- RestAssured (API Automation)
+
+### **📦 Build & CI/CD:**
+
+- Maven
+- Jenkins
+- GitHub Actions
+
+### **📊 Data Handling:**
+
+- Apache POI (Excel Handling)
+- MySQL
+
+### **📂 Frameworks & Approaches:**
+
+- Page Object Model (POM)
+- Data-Driven Testing
+- Keyword-Driven Testing
+- Hybrid Framework
+
+### **💻 Version Control & Collaboration:**
+
+- Git & GitHub
+- Bitbucket
+- JIRA (Bug Tracking & Agile)
+
+---
+
+## 📌 Featured Projects
+
+### **1️⃣ SpiceJet Flight Booking Automation**
+
+✅ Automated login, sign-up, flight search, booking, and validation scenarios using **Selenium, Java, TestNG, and POM**.
+
+### **2️⃣ Best Buy E-commerce Automation**
+
+✅ Implemented end-to-end automation for navigation, authentication, adding to cart, and order placement.
+
+### **3️⃣ Automatic Driver Drowsiness Detection System**
+
+✅ Developed a real-time **Image Processing** project for detecting driver fatigue.
+
+### **4️⃣ Student Data Management System**
+
+✅ Built a system for student record handling and automation.
+
+---
+
+## 📈 GitHub Stats & Activity
+
+
+
+
+
+---
+
+## 📫 Connect with Me
+
+- 📩 Email: [abinayavignesh91@gmail.com](mailto\:abinayavignesh91@gmail.com)
+- 💼 LinkedIn: linkedin.com/in/abinaya-p-45091a24a/&#x20;
+
+
+
+Let's collaborate and build something amazing together! 🚀
 
