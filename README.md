@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Abinaya 👋
 
 🚀 **Java Automation Tester | Selenium | TestNG | POM | API Testing**
 
@@ -11,7 +11,7 @@ Welcome to my GitHub! I am a passionate **Automation Tester** with hands-on expe
 - 🎯 **2+ years of experience** in development and testing.
 - 🏢 Worked at **Tata Consultancy Services** as a developer for the **TataCliq website**.
 - 💡 Automated **Demoblaze, SpiceJet, and Best Buy** e-commerce websites.
-- 👨‍🏫 Experience as a **Placement Trainer**, mentoring students in automation testing.
+- 👨‍🏫 Worked as a **Placement Trainer**, mentoring students for Placement in **Care Group of Institutions**.
 - 📊 Developed a **Data Management System for Students** and an **Automatic Driver Drowsiness Detection System**.
 - 🎯 Strong expertise in end-to-end **UI and API automation**.
 
@@ -22,7 +22,6 @@ Welcome to my GitHub! I am a passionate **Automation Tester** with hands-on expe
 ### **🖥️ Programming & Scripting:**
 
 - Java (Core Java, OOPs)
-- Python (Basic scripting for automation)
 
 ### **🧪 Testing Frameworks & Tools:**
 
